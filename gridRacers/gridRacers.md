@@ -1,7 +1,7 @@
 title: Semester Project Description
 toc: yes
 
-%define {\spc} {} {<span style="visibility: hidden;">~</span>}
+%define {&nbsp;} {} {<span style="visibility: hidden;">~</span>}
 
 _Grid Racers_ is a game based upon an old pencil-and-graph-paper
 game. In this project you will develop a program to play a game
@@ -216,13 +216,13 @@ The initial setup can be visualized as the matrix
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | \spc | \spc | M |
-| M | \spc | \spc | M | M | M | M | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | M | M | M | M | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 
@@ -234,113 +234,113 @@ Then the successive steps of this procedure would be
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | \spc | \spc | M |
-| M | \spc | \spc | M | M | M | M | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | M | M | M | M | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 ~
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | 2 | 2 | M |
-| M | \spc | \spc | M | M | M | M | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | 2 | 2 | M |
+| M | &nbsp; | &nbsp; | M | M | M | M | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 ~
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | 2 | 2 | M |
-| M | \spc | \spc | M | M | M | M | 3 | 3 | 3 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | 2 | 2 | M |
+| M | &nbsp; | &nbsp; | M | M | M | M | 3 | 3 | 3 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 ~
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | 2 | 2 | M |
-| M | \spc | \spc | M | M | M | M | 3 | 3 | 3 | M |
-| M | \spc | \spc | \spc | \spc | \spc | 4 | 4 | 4 | 4 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | 2 | 2 | M |
+| M | &nbsp; | &nbsp; | M | M | M | M | 3 | 3 | 3 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | 4 | 4 | 4 | 4 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 ~
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | 2 | 2 | M |
-| M | \spc | \spc | M | M | M | M | 3 | 3 | 3 | M |
-| M | \spc | \spc | \spc | \spc | 5 | 4 | 4 | 4 | 4 | M |
-| M | \spc | \spc | \spc | \spc | 5 | 5 | 5 | 5 | 5 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | \spc | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | 2 | 2 | M |
+| M | &nbsp; | &nbsp; | M | M | M | M | 3 | 3 | 3 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | 5 | 4 | 4 | 4 | 4 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | 5 | 5 | 5 | 5 | 5 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 ~
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | 2 | 2 | M |
-| M | \spc | \spc | M | M | M | M | 3 | 3 | 3 | M |
-| M | \spc | \spc | \spc | 6 | 5 | 4 | 4 | 4 | 4 | M |
-| M | \spc | \spc | \spc | 6 | 5 | 5 | 5 | 5 | 5 | M |
-| M | \spc | \spc | \spc | 6 | 6 | 6 | 6 | 6 | 6 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | 2 | 2 | M |
+| M | &nbsp; | &nbsp; | M | M | M | M | 3 | 3 | 3 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | 6 | 5 | 4 | 4 | 4 | 4 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | 6 | 5 | 5 | 5 | 5 | 5 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | 6 | 6 | 6 | 6 | 6 | 6 | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 ~
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | 2 | 2 | M |
-| M | \spc | \spc | M | M | M | M | 3 | 3 | 3 | M |
-| M | \spc | \spc | 7 | 6 | 5 | 4 | 4 | 4 | 4 | M |
-| M | \spc | \spc | 7 | 6 | 5 | 5 | 5 | 5 | 5 | M |
-| M | \spc | \spc | 7 | 6 | 6 | 6 | 6 | 6 | 6 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | 2 | 2 | M |
+| M | &nbsp; | &nbsp; | M | M | M | M | 3 | 3 | 3 | M |
+| M | &nbsp; | &nbsp; | 7 | 6 | 5 | 4 | 4 | 4 | 4 | M |
+| M | &nbsp; | &nbsp; | 7 | 6 | 5 | 5 | 5 | 5 | 5 | M |
+| M | &nbsp; | &nbsp; | 7 | 6 | 6 | 6 | 6 | 6 | 6 | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 ~
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | \spc | \spc | \spc | \spc | \spc | M | M | 2 | 2 | M |
-| M | \spc | 8 | M | M | M | M | 3 | 3 | 3 | M |
-| M | \spc | 8 | 7 | 6 | 5 | 4 | 4 | 4 | 4 | M |
-| M | \spc | 8 | 7 | 6 | 5 | 5 | 5 | 5 | 5 | M |
-| M | \spc | 8 | 7 | 6 | 6 | 6 | 6 | 6 | 6 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | 2 | 2 | M |
+| M | &nbsp; | 8 | M | M | M | M | 3 | 3 | 3 | M |
+| M | &nbsp; | 8 | 7 | 6 | 5 | 4 | 4 | 4 | 4 | M |
+| M | &nbsp; | 8 | 7 | 6 | 5 | 5 | 5 | 5 | 5 | M |
+| M | &nbsp; | 8 | 7 | 6 | 6 | 6 | 6 | 6 | 6 | M |
 | M | M | M | M | M | M | M | M | M | M | M |
 
 ~
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 1 | 1 | M |
-| M | 9 | 9 | 9 | \spc | \spc | M | M | 2 | 2 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | 9 | 9 | 9 | &nbsp; | &nbsp; | M | M | 2 | 2 | M |
 | M | 9 | 8 | M | M | M | M | 3 | 3 | 3 | M |
 | M | 9 | 8 | 7 | 6 | 5 | 4 | 4 | 4 | 4 | M |
 | M | 9 | 8 | 7 | 6 | 5 | 5 | 5 | 5 | 5 | M |
@@ -352,9 +352,9 @@ Then the successive steps of this procedure would be
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | \spc | \spc | \spc | \spc | \spc | \spc | M | 0 | 0 | M |
-| M | 10| 10| 10| 10| \spc | \spc | M | 1 | 1 | M |
-| M | 9 | 9 | 9 | 10| \spc | M | M | 2 | 2 | M |
+| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
+| M | 10| 10| 10| 10| &nbsp; | &nbsp; | M | 1 | 1 | M |
+| M | 9 | 9 | 9 | 10| &nbsp; | M | M | 2 | 2 | M |
 | M | 9 | 8 | M | M | M | M | 3 | 3 | 3 | M |
 | M | 9 | 8 | 7 | 6 | 5 | 4 | 4 | 4 | 4 | M |
 | M | 9 | 8 | 7 | 6 | 5 | 5 | 5 | 5 | 5 | M |
@@ -365,8 +365,8 @@ Then the successive steps of this procedure would be
 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
-| M | 11| 11| 11| 11| 11| \spc | M | 0 | 0 | M |
-| M | 10| 10| 10| 10| 11| \spc | M | 1 | 1 | M |
+| M | 11| 11| 11| 11| 11| &nbsp; | M | 0 | 0 | M |
+| M | 10| 10| 10| 10| 11| &nbsp; | M | 1 | 1 | M |
 | M | 9 | 9 | 9 | 10| 11| M | M | 2 | 2 | M |
 | M | 9 | 8 | M | M | M | M | 3 | 3 | 3 | M |
 | M | 9 | 8 | 7 | 6 | 5 | 4 | 4 | 4 | 4 | M |
