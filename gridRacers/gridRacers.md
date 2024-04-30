@@ -214,16 +214,17 @@ XXXXXXXXXXX
 
 The initial setup can be visualized as the matrix
 
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| M | M | M | M | M | M | M | M | M | M | M |
-| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
-| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | &nbsp; | &nbsp; | M |
-| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | M | &nbsp; | &nbsp; | M |
-| M | &nbsp; | &nbsp; | M | M | M | M | &nbsp; | &nbsp; | &nbsp; | M |
-| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
-| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
-| M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M |
-| M | M | M | M | M | M | M | M | M | M | M |
+|      |        |        |        |        |        |        |        |        |        |      |
+| :--: | :--:   | :--:   | :--:   | :--:   | :--:   | :--:   | :--:   | :--:   | :--:   | :--: |
+| M    | M      | M      | M      | M      | M      | M      | M      | M      | M      | M    |
+| M    | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M      | 0      | 0      | M    |
+| M    | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M      | &nbsp; | &nbsp; | M    |
+| M    | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M      | M      | &nbsp; | &nbsp; | M    |
+| M    | &nbsp; | &nbsp; | M      | M      | M      | M      | &nbsp; | &nbsp; | &nbsp; | M    |
+| M    | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M    |
+| M    | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M    |
+| M    | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M    |
+| M    | M      | M      | M      | M      | M      | M      | M      | M      | M      | M    |
 
 
 where `M` stands for 1,000,000, and an empty space denotes a position
