@@ -1,8 +1,6 @@
 title: Semester Project Description
 toc: yes
 
-%define {&nbsp;} {} {<span style="visibility: hidden;">~</span>}
-
 _Grid Racers_ is a game based upon an old pencil-and-graph-paper
 game. In this project you will develop a program to play a game
 against a human opponent.
@@ -233,6 +231,7 @@ denote this when coding it.)
 
 Then the successive steps of this procedure would be
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -246,6 +245,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -259,6 +259,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -272,6 +273,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -285,6 +287,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -298,6 +301,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -311,6 +315,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -324,6 +329,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -337,6 +343,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -351,6 +358,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | M | 0 | 0 | M |
@@ -364,6 +372,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | 11| 11| 11| 11| 11| &nbsp; | M | 0 | 0 | M |
@@ -377,6 +386,7 @@ Then the successive steps of this procedure would be
 
 ~
 
+|      |        |        |        |        |        |        |        |        |        |      |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | M | M | M | M | M | M | M | M | M | M | M |
 | M | 11| 11| 11| 11| 11| 12| M | 0 | 0 | M |
