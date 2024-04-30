@@ -160,6 +160,7 @@ range $0.0\ldots 1.0$ (inclusive). The point $(x,y)$ given by
 $$
 x = x_1 + t (x_2 - x_1)
 $$
+
 $$
 y = y_1 + t (y_2 - y_1)
 $$
