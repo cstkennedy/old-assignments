@@ -142,7 +142,7 @@ segment between the center of the starting and destination squares
 y+0.5)$). Any squares whose _interior_ is touched by that line
 must be free of walls and other cars.
 
-\bPicOnRight(clearPath,40)
+![](clearPath.png)
 
 For example, for a car with velocity (4,1) we would want to check the
 shaded squares indicated in the picture shown here.
@@ -157,8 +157,8 @@ form of the line segment equation. Suppose we have a line segment between
 points $(x_1, y_1)$ and $(x_2, y_2)$. Then let $t$ be a number in the
 range $0.0\ldots 1.0$ (inclusive). The point $(x,y)$ given by
 
-\\[ x = x_1 + t (x_2 - x_1) \\]
-\\[ y = y_1 + t (y_2 - y_1) \\]
+$ x = x_1 + t (x_2 - x_1) $
+$ y = y_1 + t (y_2 - y_1) $
 
 is a point lying somewhere along that line segment. By advancing $t$ in
 small increments (say, $0.01$) from $0.0$ to $1.0$, we ``walk` the
